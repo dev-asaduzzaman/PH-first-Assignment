@@ -8,7 +8,7 @@ body{
       font-family: "Raleway", sans-serif;
         font-optical-sizing: auto;
         font-style: normal;
-
+         background-color: #f5f8ff
 }
 .main-color{
     color: #4E47FF;
@@ -69,7 +69,51 @@ nav{
     margin-bottom: 30px;
 }
 /* =========================Header css end here ===========================*/
+/* =========================Action section css end here ===========================*/
+main{
+    margin: 100px 150px;
+}
+.action-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.action-heading{
+    font-size: 44px;
+    margin-bottom: 20px;
+    color: #252432;
+}
+.action-text{
+    font-size: 22px;
+    color: #25243279;
+    line-height: 30px;
+    margin-bottom: 20px;
+}
+.action-image img{
+    width: 100%;
+    border-radius: 40px;
+}
+/* =========================Action section css end here ===========================*/
+
 
 /* =========================Responsive css start here ===========================*/
+
+
+/* Tablet */
+
+
+/* Phone */
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+
+}
+
+
+
 
 /* =========================Responsive css end here ===========================*/
