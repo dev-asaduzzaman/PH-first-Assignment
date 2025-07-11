@@ -257,6 +257,35 @@ h1.testimonial-heading {
     color: #B3B3B3;
 }
 /* =========================Testimonial section css end here ===========================*/
+/* =========================Focus section start end here ===========================*/
+
+#focus {
+    margin: 150px 0;
+    padding: 100px;
+    background: #fff;
+    border-radius: 30px;
+}
+.focus-content {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.focus-heading {
+    font-size: 50px;
+    font-weight: 900;
+    margin-bottom: 15px;
+}
+
+.focus-text {
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: #757575;
+}
+.focus-image img {
+    width: 100%;
+    border-radius: 80px;
+}
+/* =========================Focus section css end here ===========================*/
 
 /* =========================Responsive css start here ===========================*/
 
